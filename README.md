@@ -108,11 +108,7 @@ Your Score: 7
 
 ## Future Enhancements
 
-- [ ] Leaderboard system
-- [ ] Difficulty progression
-- [ ] Statistics tracking
-- [ ] Custom number ranges
-- [ ] Multiplayer mode
+- [ ] None Decided At this Point XD
 
 ## License
 
