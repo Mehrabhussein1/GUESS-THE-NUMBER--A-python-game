@@ -5,9 +5,9 @@ A fun and interactive command-line number guessing game built with Python. Test 
 ## Features
 
 ✨ **Multiple Difficulty Levels**
-- Easy (1-10, 3 attempts)
-- Medium (1-20, 5 attempts)
-- Hard (1-50, 10 attempts)
+- Easy (Guess between 10 number. [Attempts :3])
+- Medium (Guess between 20 number. [Attempts :5])
+- Hard (Guess between 50 number. [Attempts :10])
 
 🎨 **Colorful UI**
 - Color-coded feedback messages
