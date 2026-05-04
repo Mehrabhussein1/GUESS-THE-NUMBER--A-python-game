@@ -1,4 +1,9 @@
 import random
+print('''\033[1m\033[33mWelcome to the Random Number Guesser Game!\033[0m
+In this game, you will be challenged to guess a random number within a certain range based on the difficulty level you choose.
+Each difficulty level offers a different range of numbers and a limited number of attempts to guess the correct number.
+The less attempts you use, the more points you will earn!
+\033[1m\033[35mgame by: Mehrab Hussein\033[0m''')
 while(True):
     difficulty = int(input('''Enter the difficulty you want to play on:
 1. Easy (The number is between \033[36m1~10\033[0m) || You get \033[36m3\033[0m attempts.
